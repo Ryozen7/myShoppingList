@@ -1,0 +1,22 @@
+{
+  "name": "myshoppinglist",
+  "version": "1.0.0",
+  "description": "This is my sample shopping list",
+  "main": "script.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ryozen7/myShoppingList.git"
+  },
+  "author": "Philip Rockyboy Fuentes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ryozen7/myShoppingList/issues"
+  },
+  "homepage": "https://github.com/Ryozen7/myShoppingList#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
